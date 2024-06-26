@@ -7,7 +7,7 @@ Here the filters are designed based on optimum  distributed  high  pass  filters
 A typical high-pass filter configuration consists of a series capacitor paired with shunt inductors. The high pass filter may be easily designed based on a lumped
 element low pass prototype, which is then transformed into highpass filter using Kuroda's identity
 
-![image](https://github.com/kmv19/High-Pass-Filter-for-Wi-Fi-applications/assets/143374982/0fd9fcf6-7d9c-4f5b-a4b2-e24c68a0d094)
+![image](https://github.com/kmv19/High-Pass-Filter-for-Wi-Fi-applications/assets/143374982/113130ec-663d-4a18-a2ac-e9ccb9e61dc8)
 
 The high pass filter prototype is transformed into transmission line structure of optimum distributed high pass filter
 
